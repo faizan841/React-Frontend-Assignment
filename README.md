@@ -186,18 +186,6 @@ The Node Inspector reads directly from ReactFlow's node state via `getNode(id)` 
 
 ---
 
-## Screenshots
-
-### Desktop — Dark Mode
-
-Canvas with service nodes, left rail, and right inspector panel visible.
-
-### Mobile — Bottom Sheet
-
-Full-screen canvas with bottom sheet drawer for app list and node inspector.
-
----
-
 ## Author
 
 **Mohammad Faizan**
